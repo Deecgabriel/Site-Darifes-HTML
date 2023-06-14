@@ -1,0 +1,727 @@
+.produtos-desktop-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.produtos-desktop-produtos-desktop {
+  width: 100%;
+  height: 2705px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.produtos-desktop-copywriting {
+  top: 2636px;
+  left: 0px;
+  width: 1439px;
+  height: 69px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.produtos-desktop-text {
+  top: 20px;
+  left: 445px;
+  color: rgba(0, 0, 0, 1);
+  width: 552px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inder;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.produtos-desktop-rodap {
+  top: 2277px;
+  left: 0px;
+  width: 1440px;
+  height: 359px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(0, 0, 0, 1);
+}
+.produtos-desktop-line2 {
+  top: 71px;
+  left: 350.51318359375px;
+  width: 3px;
+  height: 218px;
+  position: absolute;
+}
+.produtos-desktop-line1 {
+  top: 74px;
+  left: 673.065185546875px;
+  width: 3px;
+  height: 218px;
+  position: absolute;
+}
+.produtos-desktop-maps {
+  top: 74px;
+  left: 732px;
+  width: 598px;
+  height: 215px;
+  position: absolute;
+}
+.produtos-desktop-text02 {
+  top: 40px;
+  left: 959px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inika;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.produtos-desktop-icon--bbutton {
+  top: 247px;
+  left: 110px;
+  width: 90px;
+  height: 84px;
+  position: absolute;
+}
+.produtos-desktop-icon--gbutton {
+  top: 247px;
+  left: 205px;
+  width: 90px;
+  height: 84px;
+  position: absolute;
+}
+.produtos-desktop-logo-rodapbutton {
+  top: 132px;
+  left: 95.86685180664062px;
+  width: 220px;
+  height: 83px;
+  position: absolute;
+}
+.produtos-desktop-text04 {
+  top: 233px;
+  left: 420.41607666015625px;
+  color: rgba(255, 255, 255, 1);
+  width: 199px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inika;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.produtos-desktop-text09 {
+  top: 152px;
+  left: 422.413330078125px;
+  color: rgba(255, 255, 255, 1);
+  width: 149px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inika;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.produtos-desktop-text11 {
+  top: 71px;
+  left: 422.413330078125px;
+  color: rgba(255, 255, 255, 1);
+  width: 89px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inika;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.produtos-desktop-voltarao-topobutton {
+  top: 2087px;
+  left: 595px;
+  width: 231px;
+  height: 103px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.produtos-desktop-seta {
+  top: 53px;
+  left: 166px;
+  width: 101px;
+  height: 53px;
+  position: absolute;
+  box-shadow: 0px -1px 4px 0px rgba(255, 255, 255, 1) ;
+}
+.produtos-desktop-text13 {
+  top: 64px;
+  color: rgba(0, 0, 0, 1);
+  width: 231px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inika;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.produtos-desktop-carregar-maisbutton {
+  top: 1996px;
+  left: 553px;
+  width: 317px;
+  height: 37px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(151, 150, 150, 0);
+}
+.produtos-desktop-text15 {
+  left: 11px;
+  color: rgba(0, 0, 0, 1);
+  width: 299px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inika;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.produtos-desktop-produtos {
+  top: 758px;
+  left: 116px;
+  width: 1200px;
+  height: 1150px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.produtos-desktop-prod12 {
+  top: 842px;
+  left: 919px;
+  width: 274px;
+  height: 266px;
+  position: absolute;
+  border-radius: 35px;
+}
+.produtos-desktop-prod11 {
+  top: 842px;
+  left: 617px;
+  width: 274px;
+  height: 266px;
+  position: absolute;
+  border-radius: 35px;
+}
+.produtos-desktop-prod10 {
+  top: 842px;
+  left: 315px;
+  width: 274px;
+  height: 266px;
+  position: absolute;
+  border-radius: 35px;
+}
+.produtos-desktop-prod9 {
+  top: 842px;
+  left: 13px;
+  width: 274px;
+  height: 266px;
+  position: absolute;
+}
+.produtos-desktop-prod8 {
+  top: 421px;
+  left: 919px;
+  width: 274px;
+  height: 266px;
+  position: absolute;
+  border-radius: 35px;
+}
+.produtos-desktop-prod7 {
+  top: 421px;
+  left: 617px;
+  width: 274px;
+  height: 266px;
+  position: absolute;
+  border-radius: 35px;
+}
+.produtos-desktop-prod6 {
+  top: 421px;
+  left: 315px;
+  width: 274px;
+  height: 266px;
+  position: absolute;
+  border-radius: 35px;
+}
+.produtos-desktop-prod5 {
+  top: 421px;
+  left: 13px;
+  width: 274px;
+  height: 266px;
+  position: absolute;
+}
+.produtos-desktop-prod4 {
+  top: 0px;
+  left: 920px;
+  width: 274px;
+  height: 266px;
+  position: absolute;
+  border-radius: 35px;
+}
+.produtos-desktop-prod3 {
+  top: 0px;
+  left: 618px;
+  width: 274px;
+  height: 266px;
+  position: absolute;
+  border-radius: 35px;
+}
+.produtos-desktop-prod2 {
+  top: 0px;
+  left: 316px;
+  width: 274px;
+  height: 266px;
+  position: absolute;
+  border-radius: 35px;
+}
+.produtos-desktop-prod1 {
+  top: 0px;
+  left: 14px;
+  width: 274px;
+  height: 266px;
+  position: absolute;
+}
+.produtos-desktop-text17 {
+  top: 1122px;
+  left: 912px;
+  color: rgba(0, 0, 0, 1);
+  width: 274px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inika;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.produtos-desktop-text19 {
+  top: 1122px;
+  left: 608px;
+  color: rgba(0, 0, 0, 1);
+  width: 274px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inika;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.produtos-desktop-text21 {
+  top: 1122px;
+  left: 304px;
+  color: rgba(0, 0, 0, 1);
+  width: 274px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inika;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.produtos-desktop-text23 {
+  top: 1122px;
+  color: rgba(0, 0, 0, 1);
+  width: 274px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inika;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.produtos-desktop-text25 {
+  top: 701px;
+  left: 919px;
+  color: rgba(0, 0, 0, 1);
+  width: 274px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inika;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.produtos-desktop-text27 {
+  top: 701px;
+  left: 615px;
+  color: rgba(0, 0, 0, 1);
+  width: 274px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inika;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.produtos-desktop-text29 {
+  top: 701px;
+  left: 311px;
+  color: rgba(0, 0, 0, 1);
+  width: 274px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inika;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.produtos-desktop-text31 {
+  top: 701px;
+  left: 7px;
+  color: rgba(0, 0, 0, 1);
+  width: 274px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inika;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.produtos-desktop-text33 {
+  top: 280px;
+  left: 926px;
+  color: rgba(0, 0, 0, 1);
+  width: 274px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inika;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.produtos-desktop-text35 {
+  top: 280px;
+  left: 622px;
+  color: rgba(0, 0, 0, 1);
+  width: 274px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inika;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.produtos-desktop-text37 {
+  top: 280px;
+  left: 318px;
+  color: rgba(0, 0, 0, 1);
+  width: 274px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inika;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.produtos-desktop-text39 {
+  top: 280px;
+  left: 14px;
+  color: rgba(0, 0, 0, 1);
+  width: 274px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inika;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.produtos-desktop-todosos-produtos {
+  top: 529px;
+  left: 0px;
+  width: 1440px;
+  height: 85px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.produtos-desktop-nav {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 85px;
+  position: absolute;
+}
+.produtos-desktop-nav1button {
+  top: 24px;
+  left: 531px;
+  width: 377px;
+  height: 37px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.produtos-desktop-text41 {
+  top: 24px;
+  left: 542px;
+  color: rgba(0, 0, 0, 1);
+  width: 299px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inika;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.produtos-desktop-seta1 {
+  top: 30px;
+  left: 847.7041015625px;
+  width: 50px;
+  height: 25px;
+  position: absolute;
+}
+.produtos-desktop-ttulo {
+  top: 174px;
+  left: 0px;
+  width: 1440px;
+  height: 355px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 1) 14%, rgba(39, 39, 39, 1) 35%, rgba(80, 80, 80, 0.800000011920929) 54%, rgba(167, 167, 167, 0.6000000238418579) 77%);
+}
+.produtos-desktop-text43 {
+  top: 164px;
+  left: 190px;
+  color: rgba(255, 255, 255, 1);
+  width: 720px;
+  height: auto;
+  position: absolute;
+  font-size: 92px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Javanese Text;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.produtos-desktop-logo-darifes2 {
+  right: 161px;
+  width: 373px;
+  bottom: -29px;
+  height: 263px;
+  position: absolute;
+}
+.produtos-desktop-cabealho {
+  top: 45px;
+  left: 0px;
+  width: 1440px;
+  height: 135px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.produtos-desktop-nav1 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 135px;
+  position: absolute;
+}
+.produtos-desktop-logo-cabealhobutton {
+  top: 27px;
+  left: 95px;
+  width: 220px;
+  height: 83px;
+  position: absolute;
+}
+.produtos-desktop-text45 {
+  top: 83px;
+  left: 1074px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.produtos-desktop-text47 {
+  top: 83px;
+  left: 915px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.produtos-desktop-text49 {
+  top: 83px;
+  left: 741px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.produtos-desktop-login-cadastro {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 45px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(88, 87, 87, 1);
+}
+.produtos-desktop-frame1 {
+  gap: 11px;
+  top: 15px;
+  left: 1141px;
+  width: 168px;
+  height: 15px;
+  display: flex;
+  padding: 10px 25px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.produtos-desktop-text51 {
+  color: rgba(127, 0, 1, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.produtos-desktop-text53 {
+  color: rgba(127, 0, 1, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.produtos-desktop-text55 {
+  color: rgba(127, 0, 1, 1);
+  height: auto;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
